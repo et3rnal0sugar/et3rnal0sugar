@@ -1,14 +1,10 @@
 ## 🌸ೄྀ𓏲*ੈ✩‧₊˚🎭
-<p align="right">
+<p align="center">
   <img src="https://blinkies.cafe/b/display/0183-pastelpinkwings.gif" width="150">
-</p>
-<p align="left">
   <img src="https://blinkies.cafe/b/display/0074-pan.gif" width="150">
 </p>
-<p align="right">
+<p align="center">
   <img src="https://blinkies.cafe/b/display/0081-asexual.gif" width="150">
-</p>
-<p align="left">
   <img src="https://blinkies.cafe/b/display/0135-pinkiepie.gif" width="150">
 </p>
 <p align="center">

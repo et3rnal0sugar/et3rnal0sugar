@@ -41,3 +41,9 @@
 <p align="center">
   <img src="https://media1.tenor.com/m/5YltfLXnty8AAAAC/rui-kamishiro-rui.gif" width="250">
 </p>
+<p align="center">
+  <img src="https://c.tenor.com/GMRYRT9mLMoAAAAd/tenor.gif" width="250">
+</p>
+<p align="center">
+  <img src="https://c.tenor.com/T3V-soeT7lcAAAAd/tenor.gif" width="250">
+</p>
